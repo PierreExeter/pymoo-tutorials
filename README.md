@@ -8,13 +8,15 @@ This repository contains some tutorials on [PYMOO](https://www.pymoo.org/), a mu
 
 ## Installation
 
-Install the repository and the Conda environment.
-
 ```bash
 git clone https://github.com/PierreExeter/pymoo-tutorials.git
 conda env create -f environment.yml
 conda activate pymoo
 ```
+
+Alternatively, run the notebooks in Binder.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PierreExeter/pymoo-tutorials/master)
 
 ## Run the notebooks
 
